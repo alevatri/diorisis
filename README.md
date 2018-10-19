@@ -1,7 +1,7 @@
 # diorisis
 Annotation scripts to generate the Diorisis Ancient Greek Corpus (https://figshare.com/articles/The_Diorisis_Ancient_Greek_Corpus/6187256). The preprocessed files these scripts use are available at https://figshare.com/articles/Diorisis_Corpus_-_Preprocessed_files/7229162.
 
-Folder paths are to be configured in [config.ini](config.ini). [TreeTaggerData.zip](TreeTaggerData.zip) and [grkFrm.py.zip](grkFrm.py.zip) need to be extracted into the root folder.
+Folder paths are to be configured in [config.ini](config.ini). [TreeTaggerData.zip](TreeTaggerData.zip) and [grkFrm.py.zip](grkFrm.py.zip) need to be extracted into the root folder. TreeTagger must be downloaded and installed independently from [http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/).
 
 Pipeline:
 
